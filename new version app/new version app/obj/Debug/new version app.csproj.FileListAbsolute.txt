@@ -1,0 +1,49 @@
+C:\Users\Danny Carranza\Desktop\software eng APP\new version app\new version app\bin\Debug\new version app.exe.config
+C:\Users\Danny Carranza\Desktop\software eng APP\new version app\new version app\bin\Debug\new version app.exe
+C:\Users\Danny Carranza\Desktop\software eng APP\new version app\new version app\bin\Debug\new version app.pdb
+C:\Users\Danny Carranza\Desktop\software eng APP\new version app\new version app\obj\Debug\new version app.csprojAssemblyReference.cache
+C:\Users\Danny Carranza\Desktop\software eng APP\new version app\new version app\obj\Debug\new_version_app.Form1.resources
+C:\Users\Danny Carranza\Desktop\software eng APP\new version app\new version app\obj\Debug\new_version_app.Properties.Resources.resources
+C:\Users\Danny Carranza\Desktop\software eng APP\new version app\new version app\obj\Debug\new version app.csproj.GenerateResource.cache
+C:\Users\Danny Carranza\Desktop\software eng APP\new version app\new version app\obj\Debug\new version app.csproj.CoreCompileInputs.cache
+C:\Users\Danny Carranza\Desktop\software eng APP\new version app\new version app\obj\Debug\new version app.exe
+C:\Users\Danny Carranza\Desktop\software eng APP\new version app\new version app\obj\Debug\new version app.pdb
+C:\Users\Danny Carranza\Desktop\software eng APP\new version app\new version app\obj\Debug\new_version_app.Newuser.resources
+C:\Users\Danny Carranza\Desktop\software eng APP\new version app\new version app\obj\Debug\new_version_app.NewMeeting.resources
+C:\Users\Jesus Ricarte\Documents\app_so_far\software eng APP\new version app\new version app\bin\Debug\new version app.exe.config
+C:\Users\Jesus Ricarte\Documents\app_so_far\software eng APP\new version app\new version app\obj\Debug\new version app.exe
+C:\Users\Jesus Ricarte\Documents\app_so_far\software eng APP\new version app\new version app\obj\Debug\new version app.pdb
+C:\Users\Jesus Ricarte\Documents\app_so_far\software eng APP\new version app\new version app\bin\Debug\new version app.exe
+C:\Users\Jesus Ricarte\Documents\app_so_far\software eng APP\new version app\new version app\bin\Debug\new version app.pdb
+C:\Users\Jesus Ricarte\Documents\app_so_far\software eng APP\new version app\new version app\obj\Debug\new version app.csprojResolveAssemblyReference.cache
+C:\Users\Jesus Ricarte\Documents\app_so_far\software eng APP\new version app\new version app\obj\Debug\new_version_app.Form1.resources
+C:\Users\Jesus Ricarte\Documents\app_so_far\software eng APP\new version app\new version app\obj\Debug\new_version_app.NewMeeting.resources
+C:\Users\Jesus Ricarte\Documents\app_so_far\software eng APP\new version app\new version app\obj\Debug\new_version_app.Newuser.resources
+C:\Users\Jesus Ricarte\Documents\app_so_far\software eng APP\new version app\new version app\obj\Debug\new_version_app.Properties.Resources.resources
+C:\Users\Jesus Ricarte\Documents\app_so_far\software eng APP\new version app\new version app\obj\Debug\new version app.csproj.GenerateResource.Cache
+C:\Users\Jesus Ricarte\Documents\app_so_far\software eng APP\new version app\new version app\obj\Debug\new_version_app.MainPage.resources
+C:\Users\Jesus Ricarte\Documents\app_final\app_so_far\software eng APP\new version app\new version app\bin\Debug\new version app.exe.config
+C:\Users\Jesus Ricarte\Documents\app_final\app_so_far\software eng APP\new version app\new version app\obj\Debug\new version app.exe
+C:\Users\Jesus Ricarte\Documents\app_final\app_so_far\software eng APP\new version app\new version app\obj\Debug\new version app.pdb
+C:\Users\Jesus Ricarte\Documents\app_final\app_so_far\software eng APP\new version app\new version app\bin\Debug\new version app.exe
+C:\Users\Jesus Ricarte\Documents\app_final\app_so_far\software eng APP\new version app\new version app\obj\Debug\new version app.csprojResolveAssemblyReference.cache
+C:\Users\Jesus Ricarte\Documents\app_final\app_so_far\software eng APP\new version app\new version app\obj\Debug\new_version_app.Form1.resources
+C:\Users\Jesus Ricarte\Documents\app_final\app_so_far\software eng APP\new version app\new version app\obj\Debug\new_version_app.MainPage.resources
+C:\Users\Jesus Ricarte\Documents\app_final\app_so_far\software eng APP\new version app\new version app\obj\Debug\new_version_app.NewMeeting.resources
+C:\Users\Jesus Ricarte\Documents\app_final\app_so_far\software eng APP\new version app\new version app\obj\Debug\new_version_app.Newuser.resources
+C:\Users\Jesus Ricarte\Documents\app_final\app_so_far\software eng APP\new version app\new version app\obj\Debug\new_version_app.Properties.Resources.resources
+C:\Users\Jesus Ricarte\Documents\app_final\app_so_far\software eng APP\new version app\new version app\obj\Debug\new version app.csproj.GenerateResource.Cache
+C:\Users\Jesus Ricarte\Documents\app_final\app_so_far\software eng APP\new version app\new version app\bin\Debug\new version app.pdb
+C:\Users\jaime\Desktop\Spring 2020\app_final\app_so_far\software eng APP\new version app\new version app\obj\Debug\new version app.csprojAssemblyReference.cache
+C:\Users\jaime\Desktop\Spring 2020\app_final\app_so_far\software eng APP\new version app\new version app\obj\Debug\new_version_app.Form1.resources
+C:\Users\jaime\Desktop\Spring 2020\app_final\app_so_far\software eng APP\new version app\new version app\obj\Debug\new_version_app.MainPage.resources
+C:\Users\jaime\Desktop\Spring 2020\app_final\app_so_far\software eng APP\new version app\new version app\obj\Debug\new_version_app.NewMeeting.resources
+C:\Users\jaime\Desktop\Spring 2020\app_final\app_so_far\software eng APP\new version app\new version app\obj\Debug\new_version_app.Newuser.resources
+C:\Users\jaime\Desktop\Spring 2020\app_final\app_so_far\software eng APP\new version app\new version app\obj\Debug\new_version_app.Properties.Resources.resources
+C:\Users\jaime\Desktop\Spring 2020\app_final\app_so_far\software eng APP\new version app\new version app\obj\Debug\new version app.csproj.GenerateResource.cache
+C:\Users\jaime\Desktop\Spring 2020\app_final\app_so_far\software eng APP\new version app\new version app\obj\Debug\new version app.csproj.CoreCompileInputs.cache
+C:\Users\jaime\Desktop\Spring 2020\app_final\app_so_far\software eng APP\new version app\new version app\obj\Debug\new version app.pdb
+C:\Users\jaime\Desktop\Spring 2020\app_final\app_so_far\software eng APP\new version app\new version app\bin\Debug\new version app.exe.config
+C:\Users\jaime\Desktop\Spring 2020\app_final\app_so_far\software eng APP\new version app\new version app\bin\Debug\new version app.exe
+C:\Users\jaime\Desktop\Spring 2020\app_final\app_so_far\software eng APP\new version app\new version app\bin\Debug\new version app.pdb
+C:\Users\jaime\Desktop\Spring 2020\app_final\app_so_far\software eng APP\new version app\new version app\obj\Debug\new version app.exe
